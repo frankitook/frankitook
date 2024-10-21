@@ -1,12 +1,12 @@
 
 <div style="position: relative;">
-  <img align="right" width="200px" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" style="position: relative; top: 20px;" />
+  <img align="right" width="200px" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" style="position: relative; top: 1120px;" />
 </div>
 
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Franco Gimenez</h1>
-👋 Hi, I'm Franco!  
+ 
 I'm a Backend Developer and Systems Analyst with 1 year of experience building robust software solutions. I specialize in designing and developing scalable backend systems that ensure smooth and efficient operations for applications. My passion for coding and solving complex problems drives me to continuously improve and innovate.
 
 🔧 What I Do:  
