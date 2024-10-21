@@ -1,5 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Franco Gimenez</h1>
 
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
+
 # 💫 About Me:
 👋 Hi, I'm Franco!
 I'm a Backend Developer and Systems Analyst with 1 year of experience building robust software solutions. I specialize in designing and developing scalable backend systems that ensure smooth and efficient operations for applications. My passion for coding and solving complex problems drives me to continuously improve and innovate.
