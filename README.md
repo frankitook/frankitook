@@ -5,15 +5,16 @@
 <div style="clear: both;"></div>
 
 # 💫 About Me:
-👋 Hi, I'm Franco!
+👋 Hi, I'm Franco!  
 I'm a Backend Developer and Systems Analyst with 1 year of experience building robust software solutions. I specialize in designing and developing scalable backend systems that ensure smooth and efficient operations for applications. My passion for coding and solving complex problems drives me to continuously improve and innovate.
 
-🔧 What I Do:
-Backend Development: Experience in creating APIs, databases, and server-side logic.
+🔧 What I Do:  
+Backend Development: Experience in creating APIs, databases, and server-side logic.  
 Systems Analysis: Skilled at understanding business requirements and turning them into technical solutions.
 
-🚀 My Goals:
+🚀 My Goals:  
 I am committed to improving my skills as a developer and contributing to impactful projects. I enjoy learning new technologies and optimizing existing systems to deliver high-quality software.
+
 
 
 # 💻 Tech Stack:
