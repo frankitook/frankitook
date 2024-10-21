@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Franco Gimenez</h1>
 
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
-</p>
+
 
 # 💫 About Me:
 👋 Hi, I'm Franco!
