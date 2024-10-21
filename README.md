@@ -1,20 +1,21 @@
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Franco Gimenez</h1>
 
-<div style="position: relative;">
-  <img align="right" width="200px" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" style="position: relative; top: 1120px;" />
+    👋 I'm a Backend Developer and Systems Analyst with 1 year of experience building robust software solutions. I specialize in designing and developing scalable backend systems that ensure smooth and efficient operations for applications. My passion for coding and solving complex problems drives me to continuously improve and innovate.
+
+    🔧 What I Do:  
+    Backend Development: Experience in creating APIs, databases, and server-side logic.  
+    Systems Analysis: Skilled at understanding business requirements and turning them into technical solutions.
+
+    🚀 My Goals:  
+    I am committed to improving my skills as a developer and contributing to impactful projects. I enjoy learning new technologies and optimizing existing systems to deliver high-quality software.
+  </div>
+  
+  <div>
+    <img width="200px" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" style="margin-left: 20px;" />
+  </div>
 </div>
-
-
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Franco Gimenez</h1>
- 
-I'm a Backend Developer and Systems Analyst with 1 year of experience building robust software solutions. I specialize in designing and developing scalable backend systems that ensure smooth and efficient operations for applications. My passion for coding and solving complex problems drives me to continuously improve and innovate.
-
-🔧 What I Do:  
-Backend Development: Experience in creating APIs, databases, and server-side logic.  
-Systems Analysis: Skilled at understanding business requirements and turning them into technical solutions.
-
-🚀 My Goals:  
-I am committed to improving my skills as a developer and contributing to impactful projects. I enjoy learning new technologies and optimizing existing systems to deliver high-quality software.
 
 
 
