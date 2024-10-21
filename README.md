@@ -1,6 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Franco Gimenez</h1>
 
-<img align="right" width=200px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" style="margin-top: 1120px;" />
+<div style="position: relative;">
+  <img align="right" width="200px" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" style="position: relative; top: 20px;" />
+</div>
 
 <div style="clear: both;"></div>
 
