@@ -1,19 +1,21 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; padding-right: 20px;">
     <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Franco Gimenez</h1>
 
-    👋 I'm a Backend Developer and Systems Analyst with 1 year of experience building robust software solutions. I specialize in designing and developing scalable backend systems that ensure smooth and efficient operations for applications. My passion for coding and solving complex problems drives me to continuously improve and innovate.
+    <p>👋 I'm a Backend Developer and Systems Analyst with 1 year of experience building robust software solutions. I specialize in designing and developing scalable backend systems that ensure smooth and efficient operations for applications. My passion for coding and solving complex problems drives me to continuously improve and innovate.</p>
 
-    🔧 What I Do:  
-    Backend Development: Experience in creating APIs, databases, and server-side logic.  
-    Systems Analysis: Skilled at understanding business requirements and turning them into technical solutions.
+    <h3>🔧 What I Do:</h3>
+    <ul>
+      <li>Backend Development: Experience in creating APIs, databases, and server-side logic.</li>
+      <li>Systems Analysis: Skilled at understanding business requirements and turning them into technical solutions.</li>
+    </ul>
 
-    🚀 My Goals:  
-    I am committed to improving my skills as a developer and contributing to impactful projects. I enjoy learning new technologies and optimizing existing systems to deliver high-quality software.
+    <h3>🚀 My Goals:</h3>
+    <p>I am committed to improving my skills as a developer and contributing to impactful projects. I enjoy learning new technologies and optimizing existing systems to deliver high-quality software.</p>
   </div>
   
-  <div>
-    <img width="200px" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" style="margin-left: 20px;" />
+  <div style="flex-shrink: 0;">
+    <img width="200px" alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" style="border-radius: 10px;" />
   </div>
 </div>
 
