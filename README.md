@@ -2,6 +2,8 @@
 
 <img align="right" width=200px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
+<div style="clear: both;"></div>
+
 # 💫 About Me:
 👋 Hi, I'm Franco!
 I'm a Backend Developer and Systems Analyst with 1 year of experience building robust software solutions. I specialize in designing and developing scalable backend systems that ensure smooth and efficient operations for applications. My passion for coding and solving complex problems drives me to continuously improve and innovate.
